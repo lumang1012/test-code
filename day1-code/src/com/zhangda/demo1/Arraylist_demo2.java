@@ -20,5 +20,6 @@ public class Arraylist_demo2 {
         int age = sc.nextInt();
         s3.setAge(age);
         System.out.println(s3.getAge());
+
     }
 }

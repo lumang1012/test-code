@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arraylist/Arraylist.iml" filepath="$PROJECT_DIR$/Arraylist/Arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/day1-code/day1-code.iml" filepath="$PROJECT_DIR$/day1-code/day1-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/puzzlegame/puzzlegame.iml" filepath="$PROJECT_DIR$/puzzlegame/puzzlegame.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-code.iml" filepath="$PROJECT_DIR$/test-code.iml" />
