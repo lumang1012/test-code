@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 
 public class A02_CollectionDemo2 {
+    //证明contains方法在对于自定义变量需要重写equals
     public static void main(String[] args) {
         Collection<Student> coll = new ArrayList<>();
 

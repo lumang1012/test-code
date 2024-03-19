@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 
 public class A01_CollectionDemo1 {
+    //Collection接口的函数
     public static void main(String[] args){
 
         //注意collection是一个接口,不可以直接创建对象,所以创建对象时,是创建其实现类的对象
