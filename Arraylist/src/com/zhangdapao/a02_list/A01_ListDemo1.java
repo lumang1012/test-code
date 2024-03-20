@@ -23,5 +23,14 @@ public class A01_ListDemo1 {
         String s = list.remove(0);
         System.out.println(s);
         System.out.println(list);
+
+        //修改指定索引处的元素,返回被修改的元素
+        String str = list.set(1,"蕾塞");
+        System.out.println(str);
+        System.out.println(list);
+
+        //返回指定索引的元素
+        String str1 = list.get(1);
+        System.out.println(str1);
     }
 }

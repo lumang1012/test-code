@@ -21,7 +21,7 @@ public class A02_ListDemo2 {
         list.remove(1);
 
         //如何调用删除对象的方法
-        //自动装箱
+        //手动装箱
         Integer i = Integer.valueOf(1);
         //本质还是方法重载优先级
         list.remove(i);
